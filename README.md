@@ -3,7 +3,7 @@
 
 The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
 
-If it can help you, please give me a 🌟 . 
+If it can help you, please give me a 🌟  
 
 It's important to me . This is my honour :)
 
@@ -50,8 +50,8 @@ The top 10 Technologies mentioned most by open source organizations are:
 
 ### Complete statistical results
 
-- [All technologies statistics]()
-- [python]()
+- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021.md)
+- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/python.md)
 - [c/c++]()
 - [javascript]()
 - [rust]()
