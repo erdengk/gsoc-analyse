@@ -50,16 +50,16 @@ The top 10 Technologies mentioned most by open source organizations are:
 
 ### Complete statistical results
 
-- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021.md)
-- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/python.md)
-- [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/c.md)
-- [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/javascript.md)
-- [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/rust.md)
-- [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/android.md)
-- [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/opengl.md)
-- [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/linux.md)
-- [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/golang.md)
-- [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/react.md)
+- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/GSoC2021.md)
+- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/python.md)
+- [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/c.md)
+- [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/javascript.md)
+- [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/rust.md)
+- [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/android.md)
+- [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/opengl.md)
+- [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/linux.md)
+- [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/golang.md)
+- [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/react.md)
 
 ## Google Summer of Code Guides
 
