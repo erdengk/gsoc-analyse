@@ -26,6 +26,7 @@ Using data from the official website, I analyzed all the organizations participa
 According to the classification of Technologies mentioned by the organization, I sorted out the following results.
 
 
+
 ### About GSoC 2021
 
 In GSoC 2021,1203 projects were completed with 202 open source organizations.About 240 keywords were mentioned by 202 organizations.
@@ -36,17 +37,7 @@ In GSoC 2021,1203 projects were completed with 202 open source organizations.Abo
 
 The top 10 Technologies mentioned most by open source organizations are:
 
-1. python	 
-2. c/c++	 
-3. javascript	 
-4. java	 
-5. rust	
-6. android	
-7. opengl	 
-8. linux	
-9. golang
-10. react	
-
+<img width="751" alt="gsoc2021" src="https://user-images.githubusercontent.com/37730787/149070819-ecab0a85-5ded-4ea7-b6d0-31438d1915c9.png">
 
 ### Complete statistical results
 
@@ -77,7 +68,7 @@ The statistical results can not completely replace the technology stack used by 
 
 ## Contact & Chat
 
-Here is a [community]() to discuss open source activities, which is sponsored by the [Casbin community](). 
+Here is a [community](https://v2tl.com/) to discuss open source activities, which is sponsored by the [Casbin](https://github.com/casbin/casbin). 
 I'm in the community.
 
 If you have any question, please email `wannengdek@gmail.com` 
