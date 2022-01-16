@@ -45,6 +45,7 @@ The top 10 Technologies mentioned most by open source organizations are:
 - [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/python.md)
 - [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/c.md)
 - [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/javascript.md)
+- [java](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/java.md)
 - [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/rust.md)
 - [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/android.md)
 - [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/opengl.md)
