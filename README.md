@@ -27,6 +27,7 @@ According to the classification of Technologies mentioned by the organization, I
 
 
 
+
 ### About GSoC 2021
 
 In GSoC 2021,1203 projects were completed with 202 open source organizations.About 240 keywords were mentioned by 202 organizations.
@@ -52,6 +53,87 @@ The top 10 Technologies mentioned most by open source organizations are:
 - [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/linux.md)
 - [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/golang.md)
 - [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/react.md)
+
+## GSoC 2022
+
+<details>
+<summary> Timeline </summary>
+
+- February 7 - 18:00 UTC 
+
+Mentoring organizations can begin submitting applications to Google
+- February 21 - 18:00 UTC
+
+Mentoring organization application deadline
+- February 21 - March 6
+
+Google program administrators review organization applications
+
+- March 7 - 18:00 UTC
+
+List of accepted mentoring organizations published
+- March 7 - April 3
+
+Potential GSoC contributors discuss application ideas with mentoring organizations
+- April 4 - 18:00 UTC
+
+GSoC contributor application period begins
+
+- April 19 - 18:00 UTC
+
+GSoC contributor application deadline
+- May 12 - 18:00 UTC
+
+GSoC contributor slot requests due from Org Admins
+
+- May 20 - 18:00 UTC
+
+Accepted GSoC contributor projects announced
+
+- May 20 - June 12
+
+Community Bonding Period | GSoC contributors get to know mentors, read documentation, get up to speed to begin working on their projects
+
+- June 13
+
+Coding officially begins!
+
+- July 25 - 18:00 UTC
+
+Mentors and GSoC contributors can begin submitting Phase 1 evaluations
+
+- July 29 - 18:00 UTC
+
+Phase 1 Evaluation deadline (standard coding period)
+
+- July 25 - September 4
+
+Work Period | GSoC contributors work on their project with guidance from Mentors
+
+- September 5 - September 12 - 18:00 UTC
+
+Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)
+
+- September 12 - September 19 - 18:00 UTC
+
+Mentors submit final GSoC contributor evaluations (standard coding period)
+
+- September 20
+
+Initial results of Google Summer of Code 2022 announced
+- September 12 - November 13
+
+GSoC contributors with extended timelines continue coding
+
+- November 21 - 18:00 UTC
+
+Final date for all GSoC contributors to submit their final work product
+
+- November 28 - 18:00 UTC
+
+Final date for mentors to submit evaluations for GSoC contributor projects with extended deadlines
+</details><br>
+
 
 ## Google Summer of Code Guides
 
