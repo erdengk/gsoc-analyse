@@ -141,7 +141,8 @@ Please check the [official guidance](https://google.github.io/gsocguides/student
 
 ## Contribution Guidelines
 
-There is a vote in the issue, if you have time, please vote.
+There is a vote in the [issue](https://github.com/erdengk/gsoc-analyse/issues/1), if you have time, please vote.
+
 
 Please read our Contribution [Guidelines]() before you contribute to this project.
 
