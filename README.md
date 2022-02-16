@@ -7,6 +7,8 @@ If it can help you, please give me a 🌟
 
 It's important to me . This is my honour :)
 
+## gsoc 2022 org to be updated on March 7
+
 ## About GSoC
 Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12 week programming project under the guidance of mentors from their open source organization.
 
@@ -144,7 +146,7 @@ Please check the [official guidance](https://google.github.io/gsocguides/student
 There is a vote in the [issue](https://github.com/erdengk/gsoc-analyse/issues/1), if you have time, please vote.
 
 
-Please read our Contribution [Guidelines]() before you contribute to this project.
+Please read our Contribution [Guidelines](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/Contribution%20Guidelines.md) before you contribute to this project.
 
 ## WARNING
 
