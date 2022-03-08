@@ -7,7 +7,11 @@ If it can help you, please give me a 🌟
 
 It's important to me . This is my honour :)
 
-## gsoc 2022 org to be updated on March 7
+## gsoc 2022 org 
+
+[official website](https://summerofcode.withgoogle.com/programs/2022/organizations)
+
+[GSoC 2022 analyse](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2022/GSoC2022.md)
 
 ## About GSoC
 Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12 week programming project under the guidance of mentors from their open source organization.
@@ -27,34 +31,10 @@ Using data from the official website, I analyzed all the organizations participa
 
 According to the classification of Technologies mentioned by the organization, I sorted out the following results.
 
+### About GSoC 2022
 
+GSoC 2022 has 202 organizations selected, and links to the newbie guide and ideas list have been added to the details page of each organization.
 
-
-### About GSoC 2021
-
-In GSoC 2021,1203 projects were completed with 202 open source organizations.About 240 keywords were mentioned by 202 organizations.
-
-
-<img width="751" alt="gsoc2021" src="https://user-images.githubusercontent.com/37730787/148777428-e3a52181-40ee-42d3-9142-ef322a138b86.png">
-
-
-The top 10 Technologies mentioned most by open source organizations are:
-
-<img width="751" alt="gsoc2021" src="https://user-images.githubusercontent.com/37730787/149070819-ecab0a85-5ded-4ea7-b6d0-31438d1915c9.png">
-
-### Complete statistical results
-
-- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/GSoC2021.md)
-- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/python.md)
-- [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/c.md)
-- [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/javascript.md)
-- [java](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/java.md)
-- [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/rust.md)
-- [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/android.md)
-- [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/opengl.md)
-- [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/linux.md)
-- [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/golang.md)
-- [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/react.md)
 
 ## GSoC 2022
 
@@ -152,6 +132,8 @@ Please read our Contribution [Guidelines](https://github.com/erdengk/gsoc-analys
 
 The statistical results can not completely replace the technology stack used by the organization. Its function is to save you the time to find the organization one by one. That's it.
 
+All data are subject to the official website ⚠️
+
 **Good luck, open source contributor**
 
 ## Contact & Chat
@@ -160,3 +142,31 @@ Here is a [community](https://v2tl.com/) to discuss open source activities, whic
 I'm in the community.
 
 If you have any question, please email `wannengdek@gmail.com` 
+
+## Past activity
+
+### About GSoC 2021
+
+In GSoC 2021,1203 projects were completed with 202 open source organizations.About 240 keywords were mentioned by 202 organizations.
+
+
+<img width="751" alt="gsoc2021" src="https://user-images.githubusercontent.com/37730787/148777428-e3a52181-40ee-42d3-9142-ef322a138b86.png">
+
+
+The top 10 Technologies mentioned most by open source organizations are:
+
+<img width="751" alt="gsoc2021" src="https://user-images.githubusercontent.com/37730787/149070819-ecab0a85-5ded-4ea7-b6d0-31438d1915c9.png">
+
+### Complete statistical results
+
+- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/GSoC2021.md)
+- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/python.md)
+- [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/c.md)
+- [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/javascript.md)
+- [java](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/java.md)
+- [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/rust.md)
+- [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/android.md)
+- [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/opengl.md)
+- [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/linux.md)
+- [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/golang.md)
+- [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/react.md)
