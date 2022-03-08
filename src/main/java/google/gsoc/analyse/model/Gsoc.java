@@ -31,5 +31,9 @@ public class Gsoc implements Serializable {
 
     private String fullIntroduction;
 
+    private String guide;
+
+    private String ideas;
+
 
 }

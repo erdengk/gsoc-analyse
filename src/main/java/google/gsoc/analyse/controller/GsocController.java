@@ -38,7 +38,6 @@ public class GsocController {
     @ResponseBody
     @GetMapping("getGsocById")
     public Result getGsocById( @RequestParam Integer id ) {
-
         Gsoc gsoc = gsocMapper.selectById( id );
         return Result.ok( gsoc );
     }
@@ -72,7 +71,6 @@ public class GsocController {
                     analyseService.save( analyse );
                 } else {
                     analyse.setParticipation( analyse.getParticipation() + 1 );
-
                     if ( gsoc.getTechnologies().contains( analyse.getTechnologies() ) ) {
                         analyse.setOrganization( analyse.getOrganization() + gsoc.getName() + "," );
                     }
@@ -92,6 +90,23 @@ public class GsocController {
             analyseService.updateById( anlyse );
         }
         return Result.ok();
+    }
+
+    @ResponseBody
+    @GetMapping("generateRightRanking")
+    public Result generateRightRanking( @RequestParam Integer year ) {
+
+        QueryWrapper<Analyse> analyseQueryWrapper = new QueryWrapper<>();
+        analyseQueryWrapper.eq( "year", year ).orderByDesc( "participation" );
+        List<Analyse> analyseList = analyseService.list( analyseQueryWrapper );
+
+        int num = 1;
+        for ( Analyse anlyse : analyseList ) {
+            anlyse.setRanking( num++ );
+            analyseService.updateById( anlyse );
+        }
+        return Result.ok();
+
     }
 
 }
