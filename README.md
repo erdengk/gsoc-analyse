@@ -7,7 +7,7 @@ If it can help you, please give me a 🌟
 
 It's important to me . This is my honour :)
 
-## gsoc 2022 org 
+## Gsoc 2022 org has been announced
 
 [official website](https://summerofcode.withgoogle.com/programs/2022/organizations)
 
