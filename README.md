@@ -13,6 +13,12 @@ It's important to me . This is my honour :)
 
 [GSoC 2022 analyse](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2022/GSoC2022.md)
 
+In GSoC 2022, a total of 203 open source organizations were selected. About 273 keywords were mentioned by 203 organizations.
+
+![Word Art (1)](https://user-images.githubusercontent.com/37730787/157160231-5ed0a073-40f1-4bfe-907d-1d53db04e3ae.png)
+
+
+
 ## About GSoC
 Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12 week programming project under the guidance of mentors from their open source organization.
 
