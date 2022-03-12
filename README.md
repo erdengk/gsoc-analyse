@@ -129,6 +129,8 @@ Please check the [official guidance](https://google.github.io/gsocguides/student
 
 ## Contribution Guidelines
 
+Please give this project a star. This can help it be seen by more people.
+
 There is a vote in the [issue](https://github.com/erdengk/gsoc-analyse/issues/1), if you have time, please vote.
 
 
