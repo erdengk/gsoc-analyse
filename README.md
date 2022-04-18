@@ -18,7 +18,6 @@ In GSoC 2022, a total of 203 open source organizations were selected. About 273 
 ![Word Art (1)](https://user-images.githubusercontent.com/37730787/157160231-5ed0a073-40f1-4bfe-907d-1d53db04e3ae.png)
 
 
-
 ## About GSoC
 Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12 week programming project under the guidance of mentors from their open source organization.
 
@@ -126,6 +125,11 @@ Final date for mentors to submit evaluations for GSoC contributor projects with 
 ## Google Summer of Code Guides
 
 Please check the [official guidance](https://google.github.io/gsocguides/student/index)
+
+### Experience
+[Our journey to open source during Google Summer of Code](https://opensource.com/article/21/10/google-summer-code?sc_cid=70160000001273HAAQ)
+
+[GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理](https://mp.weixin.qq.com/s?__biz=MzU0Mjc0NTcxNQ==&mid=2247484324&idx=1&sn=0b9646893ff6f37b66502849d41bd40c&chksm=fb14b6b8cc633fae6f731a3b50a88c1f7e2e1b40aaeefecefd33d6b79c3f81da688656e639b7&scene=21#wechat_redirect)
 
 ## Contribution Guidelines
 
