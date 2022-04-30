@@ -43,3 +43,4 @@ extra:
 
 nav:
   - 前言: "README.md"
+  - GSoC: "README.md"
