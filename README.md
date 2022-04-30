@@ -1,3 +1,49 @@
+
+<h1 align="center" >
+    Open Source Activity Ananlyse
+</h1>
+<p align="center">
+  <strong>Open Source Activity,Open Source org,Help newbies learn open source</strong>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/erdengk/gsoc-analyse" >
+    <img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN docs" />
+  </a>
+  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en/gsoc">
+    <img src="https://img.shields.io/badge/文档-简体中文-blue.svg" alt="简体中文文档" />
+  </a>
+</p>
+
+<p align="center">
+    <a target="_blank" href="https://search.maven.org/search?q=g:org.apache.shenyu%20AND%20a:shenyu">
+        <img src="https://img.shields.io/maven-central/v/org.apache.shenyu/shenyu.svg?label=maven%20central" />
+    </a>
+    <a target="_blank" href="https://github.com/apache/shenyu/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license" />
+    </a>
+    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
+        <img src="https://img.shields.io/badge/JDK-8+-green.svg" />
+    </a>
+    <a target="_blank" href="https://github.com/apache/shenyu/actions">
+        <img src="https://github.com/apache/shenyu/workflows/ci/badge.svg" />
+    </a>
+   <a target="_blank" href='https://github.com/apache/shenyu'>
+        <img src="https://img.shields.io/github/forks/apache/shenyu.svg" alt="github forks"/>
+   </a>
+   <a target="_blank" href='https://github.com/apache/shenyu'>
+        <img src="https://img.shields.io/github/stars/apache/shenyu.svg" alt="github stars"/>
+   </a>
+   <a target="_blank" href='https://github.com/apache/shenyu'>
+        <img src="https://img.shields.io/github/contributors/apache/shenyu.svg" alt="github contributors"/>
+   </a>
+   <a target="_blank" href="https://codecov.io/gh/apache/incubator-shenyu">
+        <img src="https://codecov.io/gh/apache/incubator-shenyu/branch/master/graph/badge.svg" />
+   </a>
+</p>
+<br/>
+
 ![GSoC](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
 
@@ -14,7 +60,7 @@ It's important to me . This is my honour :)
 
 [official website](https://summerofcode.withgoogle.com/programs/2022/organizations)
 
-[GSoC 2022 analyse](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2022/GSoC2022.md)
+[GSoC 2022 analyse](https://github.com/erdengk/gsoc-analyse/blob/master/en/gsoc/GSoC2022/GSoC2022.md)
 
 In GSoC 2022, a total of 203 open source organizations were selected. About 273 keywords were mentioned by 203 organizations.
 
@@ -141,7 +187,7 @@ Please give this project a star. This can help it be seen by more people.
 There is a vote in the [issue](https://github.com/erdengk/gsoc-analyse/issues/1), if you have time, please vote.
 
 
-Please read our Contribution [Guidelines](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/Contribution%20Guidelines.md) before you contribute to this project.
+Please read our Contribution [Guidelines](https://github.com/erdengk/gsoc-analyse/blob/master/contribution/Contribution%20Guidelines.md) before you contribute to this project.
 
 ## WARNING
 
@@ -174,14 +220,4 @@ The top 10 Technologies mentioned most by open source organizations are:
 
 ### Complete statistical results
 
-- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/GSoC2021.md)
-- [python](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/python.md)
-- [c/c++](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/c.md)
-- [javascript](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/javascript.md)
-- [java](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/java.md)
-- [rust](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/rust.md)
-- [android](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/android.md)
-- [opengl](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/opengl.md)
-- [linux](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/linux.md)
-- [golang](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/golang.md)
-- [react](https://github.com/erdengk/gsoc-analyse/blob/master/markdown/GSoC2021/react.md)
+- [All technologies statistics](https://github.com/erdengk/gsoc-analyse/blob/master/en/gsoc/GSoC2021/GSoC2021.md)
