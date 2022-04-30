@@ -1,3 +1,8 @@
+site_name: 参与开源
+site_url: https://erdengk.github.io/gsoc-analyse/
+site_author: erdengk
+site_description: >-
+  参与开源
 
 repo_name: open-source-analyse
 repo_url: https://github.com/erdengk/gsoc-analyse
