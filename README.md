@@ -11,38 +11,27 @@
   <a href="https://github.com/erdengk/gsoc-analyse" >
     <img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN docs" />
   </a>
-  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en/gsoc">
+  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en">
     <img src="https://img.shields.io/badge/文档-简体中文-blue.svg" alt="简体中文文档" />
   </a>
 </p>
 
 <p align="center">
-    <a target="_blank" href="https://search.maven.org/search?q=g:org.apache.shenyu%20AND%20a:shenyu">
-        <img src="https://img.shields.io/maven-central/v/org.apache.shenyu/shenyu.svg?label=maven%20central" />
-    </a>
-    <a target="_blank" href="https://github.com/apache/shenyu/blob/master/LICENSE">
+    <a target="_blank" href="">
         <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license" />
     </a>
-    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
-        <img src="https://img.shields.io/badge/JDK-8+-green.svg" />
-    </a>
-    <a target="_blank" href="https://github.com/apache/shenyu/actions">
-        <img src="https://github.com/apache/shenyu/workflows/ci/badge.svg" />
-    </a>
-   <a target="_blank" href='https://github.com/apache/shenyu'>
-        <img src="https://img.shields.io/github/forks/apache/shenyu.svg" alt="github forks"/>
+   <a target="_blank" href=''>
+        <img src="https://img.shields.io/github/stars/erdengk/gsoc-analyse.svg" alt="github stars"/>
    </a>
-   <a target="_blank" href='https://github.com/apache/shenyu'>
-        <img src="https://img.shields.io/github/stars/apache/shenyu.svg" alt="github stars"/>
-   </a>
-   <a target="_blank" href='https://github.com/apache/shenyu'>
-        <img src="https://img.shields.io/github/contributors/apache/shenyu.svg" alt="github contributors"/>
-   </a>
-   <a target="_blank" href="https://codecov.io/gh/apache/incubator-shenyu">
-        <img src="https://codecov.io/gh/apache/incubator-shenyu/branch/master/graph/badge.svg" />
-   </a>
+
 </p>
 <br/>
+
+<!--
+   <a target="_blank" href=''>
+        <img src="https://img.shields.io/github/contributors/erdengk/gsoc-analyse.svg" alt="github contributors"/>
+   </a>
+-->
 
 ![GSoC](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
