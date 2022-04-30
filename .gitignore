@@ -35,3 +35,5 @@ build/
 ### VS Code ###
 .vscode/
 .DS_Store
+
+/ananlyse-code/
