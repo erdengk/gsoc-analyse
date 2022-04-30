@@ -1,0 +1,70 @@
+
+repo_name: open-source-analyse
+repo_url: https://github.com/erdengk/gsoc-analyse
+
+copyright: Copyright &copy; 2021-present <a href="https://github.com/erdengk" target="_blank" rel="noopener noreferrer">erdengk</a>
+
+theme:
+  name: material
+  language: zh
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+#    # - navigation.instant
+#    # - navigation.expand
+#    # - navigation.sections
+#    - navigation.tracking
+#    # - navigation.tabs
+#    # - navigation.tabs.sticky
+#    - navigation.top
+#    # - navigation.indexes
+#    - search.highlight
+#    - search.share
+#    - search.suggest
+#    # - toc.integrate
+#    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+  custom_dir: overrides
+
+plugins:
+  - search:
+      lang: ja
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/erdengk/gsoc-analyse
+
+nav:
+  - 前言: "index.md"
