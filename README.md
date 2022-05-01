@@ -1,12 +1,32 @@
-# Open Source Activity Ananlyse
 
-**Open Source Activity,Open Source org,Help newbies learn open source**
+<h1 align="center" >
+    Open Source Activity Ananlyse
+</h1>
+<p align="center">
+  <strong>Open Source Activity,Open Source org,Help newbies learn open source</strong>
+</p>
 
-[![EN docs](https://img.shields.io/badge/document-English-blue.svg) ](https://github.com/erdengk/gsoc-analyse)[![简体中文文档](https://img.shields.io/badge/%E6%96%87%E6%A1%A3-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue.svg)](https://github.com/erdengk/gsoc-analyse/tree/master/en)
 
-[![](https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license) ](./)[![github stars](https://img.shields.io/github/stars/erdengk/gsoc-analyse.svg)](./)
+<p align="center">
+  <a href="https://github.com/erdengk/gsoc-analyse" >
+    <img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN docs" />
+  </a>
+  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en">
+    <img src="https://img.shields.io/badge/文档-简体中文-blue.svg" alt="简体中文文档" />
+  </a>
+</p>
 
-\
+<p align="center">
+    <a target="_blank" href="">
+        <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license" />
+    </a>
+   <a target="_blank" href=''>
+        <img src="https://img.shields.io/github/stars/erdengk/gsoc-analyse.svg" alt="github stars"/>
+   </a>
+
+</p>
+<br/>
+
 
 ![GSoC](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
