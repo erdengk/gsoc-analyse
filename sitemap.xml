@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://erdengk.github.io/gsoc-analyse/</loc>
+         <loc>https://erdengk.github.io/gsoc-analyse/cn/</loc>
          <lastmod>2022-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://erdengk.github.io/gsoc-analyse/cn/</loc>
+         <loc>https://erdengk.github.io/gsoc-analyse/cn/gsoc/</loc>
          <lastmod>2022-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,7 +26,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://erdengk.github.io/gsoc-analyse/en/</loc>
+         <loc>https://erdengk.github.io/gsoc-analyse/en/gsoc/</loc>
          <lastmod>2022-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
