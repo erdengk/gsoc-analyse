@@ -48,13 +48,11 @@ theme:
 #    # - toc.integrate
 #    - content.code.annotate
 plugins:
-  - git-revision-date-localized:
-      type: date
   - minify:
       minify_html: true
   - search:
-      lang: ja
-
+  - git-revision-date-localized:
+      type: date
 
 extra:
   social:
@@ -62,7 +60,7 @@ extra:
       link: https://github.com/erdengk/gsoc-analyse
 
 nav:
-  - 前言: "cn/README.md"
+  - 前言: "index.md"
   - 基础知识(建设中): ".md"
   - 开源活动总结(建设中): ".md"
   - 贡献指南 : "contribution/Contribution Guidelines.md"
