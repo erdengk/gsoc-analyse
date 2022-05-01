@@ -3,8 +3,10 @@
 
 The following contributions are required:
 
-1. Improved README.md  English expression
- 
-2. Collect the successful projects in gsoc 2021  (you can collect these data from the official website through crawlers or other methods). The submitted data should be an SQL dataset
+1. Add your personal experience of participating in open source to the corresponding section.
 
-3. For other meaningful contributions, it is recommended that you put forward the issue before starting the contribution
+2. Add new open source activities.
+
+3. Add new experience blog links for each event.
+
+4. For other meaningful prs, please briefly describe the changes made this time in the pr.

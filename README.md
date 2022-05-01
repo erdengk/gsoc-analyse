@@ -8,10 +8,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/erdengk/gsoc-analyse" >
+  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en" >
     <img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN docs" />
   </a>
-  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en">
+  <a href="https://erdengk.github.io/gsoc-analyse/">
     <img src="https://img.shields.io/badge/文档-简体中文-blue.svg" alt="简体中文文档" />
   </a>
 </p>
@@ -158,7 +158,7 @@ Final date for mentors to submit evaluations for GSoC contributor projects with 
 
 </details>
 
-\
+
 
 
 ## Google Summer of Code Guides
