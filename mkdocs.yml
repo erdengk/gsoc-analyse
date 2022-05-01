@@ -10,8 +10,15 @@ repo_url: https://github.com/erdengk/gsoc-analyse
 copyright: Copyright &copy; 2021-present <a href="https://github.com/erdengk" target="_blank" rel="noopener noreferrer">erdengk</a>
 
 theme:
+  palette:
+    primary: blue
+    accent: light blue
   name: material
   language: zh
+  icon:
+    repo: fontawesome/brands/github
+
+
 
   static_templates:
     - 404.html
@@ -34,7 +41,9 @@ theme:
 #    - search.suggest
 #    # - toc.integrate
 #    - content.code.annotate
-
+plugins:
+  - git-revision-date-localized:
+      type: date
 
 extra:
   social:
@@ -43,4 +52,6 @@ extra:
 
 nav:
   - 前言: "README.md"
-  - GSoC: "README.md"
+  - GSoC:
+    - "GSoC2022": "cn/gsoc/GSoC2022/GSoC2022.md"
+    - "GSoC2021": "cn/gsoc/GSoC2021/GSoC2021.md"
