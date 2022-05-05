@@ -1,12 +1,11 @@
+# 贡献指南
 
-# Contribution Guidelines
+目前需要以下贡献：
 
-The following contributions are required:
+1. 将个人参与开源的经历添加到相应栏目（GSoC的参与经历请优先投递到GSoC-CN 仓库）。
 
-1. Add your personal experience of participating in open source to the corresponding section.
+2. 增加新的开源活动。
 
-2. Add new open source activities.
+3. 为每个活动添加新的经验链接（包括文字、视频）。
 
-3. Add new experience blog links for each event.
-
-4. For other meaningful prs, please briefly describe the changes made this time in the pr.
+4. 对于其他有意义的pr，请在pr中简单描述一下这次所做的改动。
