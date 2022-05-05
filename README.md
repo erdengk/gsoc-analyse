@@ -28,6 +28,10 @@
 <br/>
 
 
+**Please click this [link](https://erdengk.github.io/gsoc-analyse/) to visit more open source activities**
+
+
+
 ![GSoC](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
 The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
