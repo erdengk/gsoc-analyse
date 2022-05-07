@@ -1,20 +1,11 @@
 
 <h1 align="center" >
-    Open Source Activity Ananlyse
+    参与开源
 </h1>
 <p align="center">
-  <strong>Open Source Activity,Open Source org,Help newbies learn open source</strong>
+  <strong>帮助新手参与开源、介绍开源活动、参与开源活动</strong>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/erdengk/gsoc-analyse/tree/master/en" >
-    <img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN docs" />
-  </a>
-  <a href="https://erdengk.github.io/gsoc-analyse/">
-    <img src="https://img.shields.io/badge/文档-简体中文-blue.svg" alt="简体中文文档" />
-  </a>
-</p>
 
 <p align="center">
     <a target="_blank" href="">
@@ -23,192 +14,48 @@
    <a target="_blank" href=''>
         <img src="https://img.shields.io/github/stars/erdengk/gsoc-analyse.svg" alt="github stars"/>
    </a>
-
 </p>
-<br/>
 
+## 参与开源
 
-**Please click this [link](https://erdengk.github.io/gsoc-analyse/) to visit more open source activities**
+我在大学二年级时了解到了GSoC这个开源活动，当时有想参与的想法，但因为各种事没能参加。
+三年后我开始了研究生一年级的学业，某天偶然又想起了GSoC，于是开始准备参与GSoC2022。
+在准备过程中，我也发现了很多和我一样是各种计算机专业的、但没有接触过开源的学生，我们都没有很好的去探索开源这个宝库。
 
+刚开始准备时，我选择了一个并不是很活跃的社区，由于贡献者人数较少，社区也并不活跃，有些问题并不能及时得解决，提交的pr也会经过很久才review（新手参与前可能很难选择一个合适的社区）。
 
+后来，我在GSoC 2022-CN的交流群偶遇了Apache ShenYu的一位导师，我开始为ShenYu社区做贡献。Apache先进的开源理念深深的吸引了我，
+社区有很多优秀且活跃的开发者，有时遇到一些我经过努力无法解决的问题我会发邮件到邮件列表、GitHub，
+或者请教其他的贡献者，他们总是很乐意帮助我，这使我感到很温暖。我也开始逐渐融入这个社区，开始参与社区会议，了解社区开发动态，提出自己的建议。
 
-![GSoC](https://summerofcode.withgoogle.com/assets/media/logo.svg)
+为了帮助其他同学少走或者不走弯路， 我想建立这样一个项目，主要目的是`帮助新手参加开源`、`介绍开源活动`、`分享开源经验`。
+希望你在参与开源后，也可以帮助更多的人参与开源，让他们也能探索这个宝藏。
 
-The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
+你可以通过这个[链接](https://erdengk.github.io/gsoc-analyse/)在GitHub访问本项目，提交新的issue、pr。
 
-If it can help you, please give me a 🌟
+## 如何帮助新手参与开源 ？
 
-It's important to me . This is my honour :)
+这其实是一个很大的话题，我个人并没有什么特别好的办法。
+在参与GSoC之前我也是一名开源小白，只是在GitHub上看过其他人写的项目。
 
-[**ospp**](https://summer-ospp.ac.cn/#/org) **will also be released, welcome to visit**
+对于新手参与开源，我发现去了解其他经常参与开源的人的经历是一种不错的方法。
+可以在其他人的经历中，了解如何选择自己感兴趣的社区、如何与其他人合作、认识新的社区or组织。
 
-## Gsoc 2022 org has been announced
+所以本项目准备以两种方式帮助新手开源，一种是搜集一些质量比较高的关于新手如何参与开源的博客、分享贴。
+一种是公开收集个人的开源经历，欢迎各位朋友提交pr。具体提交方式可以参考这个[链接]()（待添加中）。
 
-[official website](https://summerofcode.withgoogle.com/programs/2022/organizations)
+欢迎各位朋友补充新的、合理的方式。
 
-[GSoC 2022 analyse](en/gsoc/GSoC2022/GSoC2022.md)
+## 成为本项目的贡献者
 
-In GSoC 2022, a total of 203 open source organizations were selected. About 273 keywords were mentioned by 203 organizations.
+个人力量终究是渺小的，欢迎各位朋友一起参与到本项目中。
 
-![Word Art (1)](https://user-images.githubusercontent.com/37730787/157160231-5ed0a073-40f1-4bfe-907d-1d53db04e3ae.png)
+- 欢迎提出新的issue，提问前请确保你已经阅读并理解 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 的内容。
+- 欢迎提交新的pr，如果是一个改动比较大的pr，请先提交一个issue，并列出自己想要做出的改动，标题可以参考下面这个，管理员会在一周内进行回复。
 
-## About GSoC
+> [new feature] Add a new open source activity
 
-Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12 week programming project under the guidance of mentors from their open source organization.
+- 最简单的贡献当然是给项目一个star 🌟，这可以让更多的人看到这个项目。
+- 你也可以参考本项目的 [贡献指南](https://github.com/erdengk/gsoc-analyse/blob/master/docs/contribution/Contribution%20Guidelines.md) 做出贡献。你的名字也会出现到贡献者列表中。
 
-Since 2005, the Google Summer of Code program has brought together 18,000+ new open source contributors and 17,000+ mentors from over 118 countries worldwide. Google Summer of Code has produced over 40 million lines of code for 746 open source organizations.
-
-## About GSoC Analyse
-
-In the GSoC group, I see a lot of people with this problem:
-
-> I'm skilled in XXX and XXX. Which of the organizations are beginner- friendly in GSOC? Can you give me organisation names that deal with XX XX XX and XX as I am skilled in this skills?
->
-> To enable more people to use their skills to find Gsoc open source organizations that are right for them, I analyzed participating organizations in 2021. I hope this statistic helps them.
-
-Using data from the official website, I analyzed all the organizations participating in 2021.
-
-According to the classification of Technologies mentioned by the organization, I sorted out the following results.
-
-### About GSoC 2022
-
-GSoC 2022 has 202 organizations selected, and links to the newbie guide and ideas list have been added to the details page of each organization.
-
-## GSoC 2022
-
-<details>
-
-<summary>Timeline</summary>
-
-* February 7 - 18:00 UTC
-
-Mentoring organizations can begin submitting applications to Google
-
-* February 21 - 18:00 UTC
-
-Mentoring organization application deadline
-
-* February 21 - March 6
-
-Google program administrators review organization applications
-
-* March 7 - 18:00 UTC
-
-List of accepted mentoring organizations published
-
-* March 7 - April 3
-
-Potential GSoC contributors discuss application ideas with mentoring organizations
-
-* April 4 - 18:00 UTC
-
-GSoC contributor application period begins
-
-* April 19 - 18:00 UTC
-
-GSoC contributor application deadline
-
-* May 12 - 18:00 UTC
-
-GSoC contributor slot requests due from Org Admins
-
-* May 20 - 18:00 UTC
-
-Accepted GSoC contributor projects announced
-
-* May 20 - June 12
-
-Community Bonding Period | GSoC contributors get to know mentors, read documentation, get up to speed to begin working on their projects
-
-* June 13
-
-Coding officially begins!
-
-* July 25 - 18:00 UTC
-
-Mentors and GSoC contributors can begin submitting Phase 1 evaluations
-
-* July 29 - 18:00 UTC
-
-Phase 1 Evaluation deadline (standard coding period)
-
-* July 25 - September 4
-
-Work Period | GSoC contributors work on their project with guidance from Mentors
-
-* September 5 - September 12 - 18:00 UTC
-
-Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)
-
-* September 12 - September 19 - 18:00 UTC
-
-Mentors submit final GSoC contributor evaluations (standard coding period)
-
-* September 20
-
-Initial results of Google Summer of Code 2022 announced
-
-* September 12 - November 13
-
-GSoC contributors with extended timelines continue coding
-
-* November 21 - 18:00 UTC
-
-Final date for all GSoC contributors to submit their final work product
-
-* November 28 - 18:00 UTC
-
-Final date for mentors to submit evaluations for GSoC contributor projects with extended deadlines
-
-</details>
-
-
-
-
-## Google Summer of Code Guides
-
-Please check the [official guidance](https://google.github.io/gsocguides/student/index)
-
-### Experience
-
-[Our journey to open source during Google Summer of Code](https://opensource.com/article/21/10/google-summer-code?sc\_cid=70160000001273HAAQ)
-
-[GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理](https://mp.weixin.qq.com/s?\_\_biz=MzU0Mjc0NTcxNQ==\&mid=2247484324\&idx=1\&sn=0b9646893ff6f37b66502849d41bd40c\&chksm=fb14b6b8cc633fae6f731a3b50a88c1f7e2e1b40aaeefecefd33d6b79c3f81da688656e639b7\&scene=21#wechat\_redirect)
-
-## Contribution Guidelines
-
-Please give this project a star. This can help it be seen by more people.
-
-There is a vote in the [issue](https://github.com/erdengk/gsoc-analyse/issues/1), if you have time, please vote.
-
-Please read our Contribution [Guidelines](broken-reference) before you contribute to this project.
-
-## WARNING
-
-The statistical results can not completely replace the technology stack used by the organization. Its function is to save you the time to find the organization one by one. That's it.
-
-All data are subject to the official website ⚠️
-
-**Good luck, open source contributor**
-
-## Contact & Chat
-
-Here is a [community](https://v2tl.com) to discuss open source activities, which is sponsored by the [Casbin](https://github.com/casbin/casbin). I'm in the community.
-
-If you have any question, please email `wannengdek@gmail.com`
-
-## Past activity
-
-### About GSoC 2021
-
-In GSoC 2021,1203 projects were completed with 202 open source organizations.About 240 keywords were mentioned by 202 organizations.
-
-![gsoc2021](https://user-images.githubusercontent.com/37730787/148777428-e3a52181-40ee-42d3-9142-ef322a138b86.png)
-
-The top 10 Technologies mentioned most by open source organizations are:
-
-![gsoc2021](https://user-images.githubusercontent.com/37730787/149070819-ecab0a85-5ded-4ea7-b6d0-31438d1915c9.png)
-
-### Complete statistical results
-
-* [All technologies statistics](broken-reference)
+**由于个人水平有限，文档中也难免存在笔误或者错误，请各位朋友帮忙指出，直接评论或者提交issue都可以（如果能提交修正的pr那就更好了）。**
