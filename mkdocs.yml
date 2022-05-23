@@ -67,6 +67,8 @@ nav:
   - 贡献指南 : "contribution/Contribution Guidelines.md"
   - GSoC:
     - "GSoC": "cn/gsoc/index.md"
+    - "前人经验（文章）" : "cn/gsoc/experience-docs.md"
+    - "前人经验（视频）" : "cn/gsoc/experience-video.md"
     - "GSoC2022": "cn/gsoc/GSoC2022/GSoC2022.md"
     - "GSoC2021": "cn/gsoc/GSoC2021/GSoC2021.md"
   - 暑期之夏(OSPP):

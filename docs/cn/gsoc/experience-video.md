@@ -2,13 +2,13 @@
 
 ## 视频、分享会
 
-### GSoC 项目选择建议 ｜ GSoC ｜ 开源活动｜GSoC分析
+### 1. GSoC 项目选择建议 ｜ GSoC ｜ 开源活动｜GSoC分析
 
 [GSoC 项目选择建议 ｜ GSoC ｜ 开源活动｜GSoC分析](https://www.bilibili.com/video/BV1Vq4y187DE)
 
 官网的搜索还有待优化，可以使用视频中的仓库地址来按技术栈找自己的项目。
 
-### GSoC 申请交流会：经验、教训、努力、本土化
+### 2. GSoC 申请交流会：经验、教训、努力、本土化
 
 [韩柳彤 - GSoC2022 申请交流会：经验、教训、努力、本土化](https://www.bilibili.com/video/BV1AS4y1373Z)
 
@@ -20,6 +20,6 @@
 
 [GSoC2021申请交流会：经验、教训、努力、本土化 - 20210314](https://www.bilibili.com/video/BV13v411a7Km)
 
-### Jenkins 2020 GSoC phase1 成果展示
+### 3. Jenkins 2020 GSoC phase1 成果展示
 
 [Jenkins 2020 GSoC phase1 成果展示](https://www.bilibili.com/video/BV1hC4y1h713)
