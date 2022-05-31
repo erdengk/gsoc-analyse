@@ -9,7 +9,9 @@
 
 ## 夏季
 
-[中科院开源之夏](https://summer-ospp.ac.cn/)、[腾讯犀牛鸟开源人才培养计划](https://opensource.tencent.com/summer-of-code)、
+[中科院开源之夏](https://summer-ospp.ac.cn/)、 [腾讯犀牛鸟开源人才培养计划](https://opensource.tencent.com/summer-of-code)、
+
+[阿里巴巴编程之夏（ASoC）](https://asoc2022.opensource.alibaba.com/)
 
 [GLCC](https://www.gitlink.org.cn/glcc)、[Casbin明日之星预选生计划](https://github.com/casbin/Talent2022)
 
@@ -53,7 +55,9 @@ CCF学会下的开源代码平台，2022年第一次举办开源夏令营，具�
 
 2021年举办过一次，没有奖金，活动名额较少，根据名单来看，入学者学校平均实力较高。
 
-2022年据说要举办，但一直没有消息（20222.5.5更新）。
+~~2022年据说要举办，但一直没有消息（20222.5.5更新）。~~
+
+2022年5月31日开始举办。
 
 ### 比特之夏（Summer of Bitcoin）
 
