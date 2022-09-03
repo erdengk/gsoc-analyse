@@ -59,3 +59,8 @@
 - 你也可以参考本项目的 [贡献指南](https://github.com/erdengk/gsoc-analyse/blob/master/docs/contribution/Contribution%20Guidelines.md) 做出贡献。你的名字也会出现到贡献者列表中。
 
 **由于个人水平有限，文档中也难免存在笔误或者错误，请各位朋友帮忙指出，直接评论或者提交issue都可以（如果能提交修正的pr那就更好了）。**
+
+## 贡献者列表
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
