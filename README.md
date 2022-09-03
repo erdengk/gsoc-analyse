@@ -63,4 +63,28 @@
 ## 贡献者列表
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/erdengk">
+            <img src="https://avatars.githubusercontent.com/u/37730787?v=4" width="100;" alt="erdengk"/>
+            <br />
+            <sub><b>尔等同学</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/itwaix">
+            <img src="https://avatars.githubusercontent.com/u/44227947?v=4" width="100;" alt="itwaix"/>
+            <br />
+            <sub><b>Yuang XU</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/chuxiaoyu">
+            <img src="https://avatars.githubusercontent.com/u/17902586?v=4" width="100;" alt="chuxiaoyu"/>
+            <br />
+            <sub><b>Xiaoyu Chu</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
