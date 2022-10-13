@@ -79,6 +79,9 @@ nav:
     - "glcc": "cn/glcc/index.md"
     - "2022项目": "cn/glcc/GLCC2022/glcc2022.md"
     - "2022中期通过项目": "cn/glcc/GLCC2022/glcc2022middle.md"
+  - 阿里巴巴编程之夏（ASoC）:
+    - "AsoC": "cn/asoc/index.md"
+    - "前人经验": "cn/asoc/ASOC2022/experience.md"
   - 腾讯犀牛鸟开源活动:
     - "犀牛鸟开源活动": "cn/rhino-brid/index.md"
-    - "前人经验": "cn/rhino-brid/experience/1.itwaix_expr.md"
+    - "itwaix_expr": "cn/rhino-brid/experience/1.itwaix_expr.md"

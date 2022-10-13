@@ -1,7 +1,5 @@
 
-## 开源分享 
-
-
+## 开源分享
 
 ### How the ASF builds communities --Tison
 
