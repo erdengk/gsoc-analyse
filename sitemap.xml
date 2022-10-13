@@ -26,12 +26,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://erdengk.github.io/gsoc-analyse/cn/asoc/ASOC2022/experience/</loc>
+         <loc>https://erdengk.github.io/gsoc-analyse/cn/asoc/experience/</loc>
          <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://erdengk.github.io/gsoc-analyse/cn/glcc/</loc>
+         <lastmod>2022-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://erdengk.github.io/gsoc-analyse/cn/glcc/experience/</loc>
          <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
