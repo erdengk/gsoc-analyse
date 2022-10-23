@@ -23,3 +23,7 @@
 ### 3. Jenkins 2020 GSoC phase1 成果展示
 
 [Jenkins 2020 GSoC phase1 成果展示](https://www.bilibili.com/video/BV1hC4y1h713)
+
+### 4. Proposal 分享
+
+[GSoC Proposal 分享](https://www.bilibili.com/video/BV1zQ4y1N7FG)
