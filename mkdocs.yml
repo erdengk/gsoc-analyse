@@ -76,13 +76,13 @@ nav:
     - "OSPP2022": "cn/ospp/OSPP2022/OSPP2022.md"
     - "前人经验" : "cn/ospp/experience.md"
   - 计算机学会开源夏令营(GLCC):
-    - "glcc": "cn/glcc/index.md"
+    - "GLCC": "cn/glcc/index.md"
     - "前人经验": "cn/glcc/experience.md"
     - "2022项目": "cn/glcc/GLCC2022/glcc2022.md"
     - "2022中期通过项目": "cn/glcc/GLCC2022/glcc2022middle.md"
   - 阿里巴巴编程之夏（ASoC）:
-    - "AsoC": "cn/asoc/index.md"
-    - "前人经验": "cn/asoc/experience.md"
+    - "ASoC": "cn/asoc/index.md"
+    - "maxingg_expr": "cn/asoc/experience/1.maxingg_expr.md"
   - 腾讯犀牛鸟开源活动:
     - "犀牛鸟开源活动": "cn/rhino-brid/index.md"
-    - "itwaix_expr": "cn/rhino-brid/experience/1.itwaix_expr.md"
+    - "itwaix_expr": "cn/rhino-brid/experience/1.maxingg_expr.md"
