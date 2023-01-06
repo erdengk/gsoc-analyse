@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://erdengk.github.io/gsoc-analyse/cn/asoc/experience/3.situ2001_expr/</loc>
+         <lastmod>2023-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://erdengk.github.io/gsoc-analyse/cn/glcc/</loc>
          <lastmod>2023-01-06</lastmod>
          <changefreq>daily</changefreq>
