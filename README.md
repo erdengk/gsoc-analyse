@@ -80,10 +80,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/yihuajack">
+            <img src="https://avatars.githubusercontent.com/u/23608500?v=4" width="100;" alt="yihuajack"/>
+            <br />
+            <sub><b>Liu Yihua</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/situ2001">
             <img src="https://avatars.githubusercontent.com/u/28241963?v=4" width="100;" alt="situ2001"/>
             <br />
-            <sub><b>situ2001</b></sub>
+            <sub><b>Situ2001</b></sub>
         </a>
     </td>
     <td align="center">
