@@ -5,11 +5,11 @@ The purpose of this repository is to help contributors find GSoC organizations t
 
 If it can help you, please give me a 🌟
 
-It's important to me . This is my honour :)
+It's important to me . This is my honor :)
 
-[**ospp**](https://summer-ospp.ac.cn/#/org) **will also be released, welcome to visit**
+[**OSPP**](https://summer-ospp.ac.cn/#/org) **will also be released, welcome to visit**
 
-## Gsoc 2022 org has been announced
+## GSoC 2022 org has been announced
 
 [official website](https://summerofcode.withgoogle.com/programs/2022/organizations)
 
@@ -29,9 +29,9 @@ Since 2005, the Google Summer of Code program has brought together 18,000+ new o
 
 In the GSoC group, I see a lot of people with this problem:
 
-> I'm skilled in XXX and XXX. Which of the organizations are beginner- friendly in GSOC? Can you give me organisation names that deal with XX XX XX and XX as I am skilled in this skills?
+> I'm skilled in XXX and XXX. Which of the organizations are beginner- friendly in GSoC? Can you give me organization names that deal with XX XX XX and XX as I am skilled in this skills?
 >
-> To enable more people to use their skills to find Gsoc open source organizations that are right for them, I analyzed participating organizations in 2021. I hope this statistic helps them.
+> To enable more people to use their skills to find GSoC open source organizations that are right for them, I analyzed participating organizations in 2021. I hope this statistic helps them.
 
 Using data from the official website, I analyzed all the organizations participating in 2021.
 
