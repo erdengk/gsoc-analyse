@@ -1,3 +1,6 @@
+## Good First Issue
+
+[一个收集good first issue 的仓库](https://github.com/deepsourcelabs/good-first-issue)
 
 ## 开源分享
 
@@ -8,7 +11,6 @@
 主讲人：Apache Member [Tison](https://github.com/tisonkun)
 
 关于 Apache 的一期视频，也谈了很多数据库相关的问题。
-
 
 
 ### 开源与商业的逻辑
