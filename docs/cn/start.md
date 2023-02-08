@@ -35,6 +35,6 @@
 
 ## 开源社区-商业公司
 
-阿里云 SLS 团队开源的 iLogtail ，[Alibaba iLogtail - Fast and Lightweight Observability Data Collector](Alibaba iLogtail - Fast and Lightweight Observability Data Collector)
+阿里云 SLS 团队开源的 iLogtail ，[Alibaba iLogtail - Fast and Lightweight Observability Data Collector](https://github.com/alibaba/ilogtail)
 
 [iLogtail MeetUp](https://www.bilibili.com/video/BV1zU4y1e7Rk)（包含代码讲解与入门）
