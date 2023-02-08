@@ -33,3 +33,8 @@
 
 1. [Apache ShardingSphere: ShardingSphere x Google Summer of Code: Students, How Was Your Open Source Experience?](https://medium.com/nerd-for-tech/shardingsphere-x-google-summer-of-code-students-how-was-your-open-source-experience-cd1a635e8882)
 
+## 开源社区-商业公司
+
+阿里云 SLS 团队开源的 iLogtail ，[Alibaba iLogtail - Fast and Lightweight Observability Data Collector](Alibaba iLogtail - Fast and Lightweight Observability Data Collector)
+
+[iLogtail MeetUp](https://www.bilibili.com/video/BV1zU4y1e7Rk)（包含代码讲解与入门）
