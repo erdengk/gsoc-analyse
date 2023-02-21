@@ -7,33 +7,46 @@ openEuler开源实习是openEuler社区和社区合作单位共同发起的线�
 [活动网址](https://www.openeuler.org/zh/internship/)
 
 联系邮箱：intern@openeuler.sh
+
 QQ群：526089131
 
 # 申请步骤
 
 1. 申请实习
-   （1）阅读并签署活动声明。(见申请材料模板里)
+   
+（1）阅读并签署活动声明。(见申请材料模板里)
+
 （2）完成 [实习测试任务](https://gitee.com/openeuler-competition/opensource-internship/issues/I4A68T?from=project-issue) 并提供PR链接。
+
 （3）填写报名资料表。
 
 将以上申请材料按照模板填写后发送至开源实习官方邮箱 intern@openeuler.sh 。发送后等待审核，组织方将以邮件反馈审核结果，审核通过后，签订劳务协议，用所分配的账号开始实习。 （注：组织方会根据所提交的资料对报名学生进行一定的审核筛选）
+
 [申请材料模版下载链接](https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/%E5%BC%80%E6%BA%90%E5%AE%9E%E4%B9%A0%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD/01%20%E5%AE%9E%E4%B9%A0%E7%94%B3%E8%AF%B7%E6%9D%90%E6%96%99%E6%A8%A1%E6%9D%BF.rar)
 
 2. 领取任务
-   （1）在Gitee查看任务，找到你想做的任务issue。
+   
+（1）在Gitee查看任务，找到你想做的任务issue。
+
 （2）在任务issue下方评论区输入 /intern-assign 命令，认领该任务，然后发送邮件给任务导师请求审核。邮件需包括你的简历和该任务的开发方案。
+
 （3）导师收到邮件后对申请人进行评审，在该任务issue评论下通过输入命令反馈结果， /intern-approve 代表审核通过，学生成功领取任务,可以开始进行任务处理； /intern-unapprove 代表领取失败，该学生可再去领取其他任务。
+
 （4）如果领取后无法完成，可通过在issue下输入 /intern-unassign 放弃任务。 放弃超过3次，账号被限制一个月不能领取任务。
 
 注意
 每个任务只能有一个人认领，每人一次最多只能有2个认领中的任务。
 
 输入 /intern-assign 命令后两周内没有发简历和方案给导师的，认领自动失效，任务被释放。
+
 [任务认领邮件模板下载](https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/%E5%BC%80%E6%BA%90%E5%AE%9E%E4%B9%A0%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD/02%20%E4%BB%BB%E5%8A%A1%E8%AE%A4%E9%A2%86%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF.rar)
 
 3. 提交任务
+   
    （1）任务处理完成后，提交pr，在pr描述里添加 #issue 编号。
+
 （2）提交pr后在任务issue评论区输入 /intern-completed 命令，表示当前任务已提交，然后等待审核。
+
 （3）跟进导师和相关SIG maintainer审核PR，PR被合入后，导师确认任务完成即在issue下输入 /intern-done 命令，issue关闭，学生获得积分。
 
 注意
