@@ -94,12 +94,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/huawuque404">
+            <img src="https://avatars.githubusercontent.com/u/109327586?v=4" width="100;" alt="huawuque404"/>
+            <br />
+            <sub><b>花无缺</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/chuxiaoyu">
             <img src="https://avatars.githubusercontent.com/u/17902586?v=4" width="100;" alt="chuxiaoyu"/>
             <br />
             <sub><b>Xiaoyu Chu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lyf712">
             <img src="https://avatars.githubusercontent.com/u/62736461?v=4" width="100;" alt="lyf712"/>
